@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+    padding: 1%;
+}
+.header {
+  text-align: center;
+}
+.navbar {
+    display: flex;
+    background-color: #666;
+    justify-content: space-between;
+    padding: 10px;
+}
+.navbar a {
+    color: #ccc;
+    text-align: center;
+    text-decoration: center;
+    padding: 10px;
+    
+}
+.navbar a:hover {
+    background-color: black;
+    color: white;
+
+}
+.body {
+    display: flex;
+    border: #070101 2px;
+}
